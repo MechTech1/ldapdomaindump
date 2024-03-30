@@ -1,5 +1,6 @@
 # LDAPDomainDump
 Active Directory information dumper via LDAP
+Modified by RDG CTF 2024
 
 ## Introduction
 In an Active Directory domain, a lot of interesting information can be retrieved via LDAP by any authenticated user (or machine).
