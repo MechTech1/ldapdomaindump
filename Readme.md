@@ -1,5 +1,6 @@
 # LDAPDomainDump
 Active Directory information dumper via LDAP
+
 Modified by RDG CTF 2024
 
 ## Introduction
